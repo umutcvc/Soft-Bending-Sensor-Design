@@ -6,7 +6,10 @@ This project includes the design, manufacturing, and 3D simulation of a soft ben
 *3D model of the soft sensor;
 ![](Images/Model.PNG)
 
-*Example Circuit Set-up;
+*Cross section of the sensor design;
+![](Images/Cross_Section.png)
+
+*Example circuit Set-up;
 ![](Images/Circuit.png)
 
 *Youtube demonstration;
