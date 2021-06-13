@@ -7,7 +7,7 @@ This project includes the design, manufacturing, and 3D simulation of a soft ben
 ![](Images/Model.PNG)
 
 *Example Circuit Set-up;
-![](Images/Circuit.PNG)
+![](Images/Circuit.png)
 
 *Youtube demonstration;
 https://www.youtube.com/watch?v=eRRuoDtD7dg
